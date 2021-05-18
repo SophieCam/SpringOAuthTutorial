@@ -1,0 +1,44 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### GitHub Secrete Key ###
+c056db073c1feed9e31f6dec9211826cb2abcb28
+### GitHub Client ID  ###
+936515254756d58ef700
+
+
+### Google Secrete Key ###
+_fRMliZ73g7UBXR7_7Rbobvg
+### Google Client ID  ###
+394946559849-6aj72e347snm3l78s3sq6r166r8cji5f.apps.googleusercontent.com
